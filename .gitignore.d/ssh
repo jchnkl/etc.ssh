@@ -1,0 +1,9 @@
+*
+!/.gitignore.d
+!/.gitignore.d/ssh
+!/.ssh
+!/.ssh/authorized_keys
+!/.ssh/config
+!/.ssh/.gitignore
+!/.ssh/id_dsa.pub
+!/.ssh/id_rsa.pub
